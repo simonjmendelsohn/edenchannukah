@@ -1,0 +1,20 @@
+{
+  "name": "pagepilling",
+  "homepage": "https://github.com/simonjmendelsohn/edenchannukah",
+  "authors": [
+    "Simon <simonjmendelsohn@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pagePiling.js": "pagepiling.js#^1.5.6"
+  }
+}
